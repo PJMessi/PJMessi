@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Prajwal</h1>
+<h1><img src="blob-sunglasses.gif" width="30"/> Hey there, I'm Prajwal</h1>
 
-<img align='right' src='https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif' width='200'>
+<img align='right' src='cat.gif' width='200'>
 
 **Software Engineer** at [@Hazesoft](https://hazesoft.co/).
 
@@ -8,7 +8,7 @@
 <a href="mailto:pjmessi25@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
-  <li>🧑‍💻 I'm a Web Developer from <b>Kathmandu, <img src="https://www.flaticon.com/svg/vstatic/svg/3578/3578388.svg?token=exp=1610633453~hmac=4e50155f59cb4543c1c04bd2bee55f8c" width="13"/> Nepal</b>;</li>
+  <li>🧑‍💻 I'm a Web Developer from <b>Kathmandu, <img src="swoyambhu.svg" width="13"/> Nepal</b>;</li>
   <li>💾 Few tech that I enjoy working in are Node Js, Express, Laravel, Lumen, React Js, Vue Js;</li>
   <li>😍 Passionate about education and problem solution through programming;</li>
   <li>😊 Willing to contribute in opensource development projects;</li>
