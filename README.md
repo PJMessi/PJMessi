@@ -15,8 +15,8 @@
   <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
 
-> “Be who you needed when you were younger!”
-― Some Wise Guy
+> “I believe whatever doesn't kill you, simply makes you....STRANGER.!”
+― a very wise person
 
 ---
 
