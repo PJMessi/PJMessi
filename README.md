@@ -4,8 +4,8 @@
 
 **Software Engineer** at [@EeposIt](https://www.eeposit.com/).
 
-<a href="https://www.linkedin.com/in/pjmessi/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:pjmessi25@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/prajwal98/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:pjmessi25@icloud.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 * Mainly work on backend web development with **Node JS** and **Typescript/Javascript**.
 * Besides JS/TS, very comfortable with **C#**, **PHP** and **Python**.
