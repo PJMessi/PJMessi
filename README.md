@@ -2,7 +2,7 @@
 
 <img align='right' src='cat.gif' width='200'>
 
-**Software Engineer** at [@EeposIt](https://www.eeposit.com/).
+**Software Engineer** at [@Opencafe](https://opencafe.io).
 
 <a href="https://www.linkedin.com/in/prajwal98/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:pjmessi25@icloud.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
