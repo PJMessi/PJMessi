@@ -1,6 +1,6 @@
-<h1><img src="blob-sunglasses.gif" width="30"/> Aalo, I'm Prajwal</h1>
+<h1>Aalo, I'm Prajwal</h1>
 
-**Software Engineer [Backend]** at [@Opencafe](https://opencafe.io).
+**Software Engineer [Backend]** at [@OpencafeLLC](https://opencafe.io).
 
 <a href="https://www.linkedin.com/in/prajwal98/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:pjmessi25@icloud.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
