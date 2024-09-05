@@ -2,6 +2,9 @@
 
 **Software Engineer [Backend]** at [@OpencafeLLC](https://opencafe.io).
 
+Currently learning   
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 <a href="https://www.linkedin.com/in/prajwal98/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:pjmessi25@icloud.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
