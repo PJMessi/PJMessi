@@ -1,6 +1,6 @@
 <h1>I'm Prajwal</h1>
 
-**Software Engineer** at [@OpencafeLLC](https://opencafe.io).
+Looking for new opportunities.
 
 ## Getting proficient in
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
